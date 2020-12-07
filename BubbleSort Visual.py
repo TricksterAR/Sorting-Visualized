@@ -3,7 +3,7 @@ import random
 
 
 WINDOW_SIZE = 720       # (720x720)
-elements = 60          # must be a factor of WINDOW_SIZE
+elements = 120          # must be a factor of WINDOW_SIZE
 
 # initialising window
 win = pg.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
